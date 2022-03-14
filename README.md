@@ -7,7 +7,7 @@ It comes with;
 - [Axios](https://axios-http.com/?ref=github.com/nesimtunc/fly-io-nodejs-typescript)
 - [PlaceHolder API for Todos](https://jsonplaceholder.typicode.com/)
 
-Don't forget to setup `API_BASE_URL` in environment (for local) and as a secret on [fly.io](https://fly.io/?ref=github.com/nesimtunc/fly-io-nodejs-typescript) for production.
+Don't forget to setup `API_BASE_URL` in environment (for local) and as a secret on [fly.io](https://fly.io/?ref=github.com/nesimtunc/fly-io-nodejs-typescript) for production. Well, if you forget to set it, the app will tell you in the logs, and exit the process.
 
 Check out the scripts in [package.json](package.json)
 
