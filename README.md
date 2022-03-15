@@ -13,15 +13,13 @@ Check out the scripts in [package.json](package.json)
 
 ## How to deploy to fly.io
 
-After creating an account on [fly.io](https://fly.io/?ref=github.com/nesimtunc/fly-io-nodejs-typescript)
-
-and install the [fly CLI tool](https://fly.io/docs/getting-started/installing-flyctl/?ref=github.com/nesimtunc/fly-io-nodejs-typescript)
+After creating an account on [fly.io](https://fly.io/?ref=github.com/nesimtunc/fly-io-nodejs-typescript) and install the [fly CLI tool](https://fly.io/docs/getting-started/installing-flyctl/?ref=github.com/nesimtunc/fly-io-nodejs-typescript)
 
 `fly launch` for the first time
 
 `fly deploy` for a new release
 
-For more [https://fly.io/docs](https://fly.io/docs/?ref=github.com/nesimtunc/fly-io-nodejs-typescript)
+For more checkout the documentations [https://fly.io/docs](https://fly.io/docs/?ref=github.com/nesimtunc/fly-io-nodejs-typescript)
 
 ## ToDo
 
