@@ -23,4 +23,4 @@ For more checkout the documentations [https://fly.io/docs](https://fly.io/docs/?
 
 ## ToDo
 
-- [ ] Add some unit tests
+- [X] Add some unit tests
