@@ -4,7 +4,11 @@ import log from "./utils/logger";
 
 export default function (app: Express) {
   const todoController = new TodoController();
+
   app.get("/todos", todoController.getTodos);
+  app.get("/ping", (_req: Request, res: Response) => {
+    res.send("pong");
+  });
 
   httpsRedirection(app);
 
